@@ -1,0 +1,52 @@
+.main-container{
+    padding: 50px 20px;
+    display: flex;
+}
+
+.companies-container{
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+
+.text-container{
+    width: 30%;
+    padding: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.text{
+    color: #000842;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+@media (max-width: 980px) {
+    .main-container {
+      flex-direction: column;
+    }
+
+    .text-container{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .companies-container{
+        width: 100%;
+    }
+  }
+
+
+  @media (max-width: 760px) {
+
+    .text{
+        text-align: center;
+    }
+
+    .companies-container{
+        width: 100%;
+        flex-direction: column;
+    }
+  }

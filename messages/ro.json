@@ -1,0 +1,230 @@
+ {
+    "HomePage": {
+        "title": "Buna ziua"
+
+    },
+    "claimIT": {
+        "title": "Sistem ERP integrat de ultimă generație",
+        "text": "Fie că sunteți un startup sau o corporație, Claim IT se adaptează nevoilor voastre specifice. Soluția noastră vă ajută să luați decizii operaționale bazate pe date concrete, să optimizați utilizarea resurselor, să gestionați eficient facturile prin integrarea cu ANAF și să îmbunătățiți procesele."
+    },
+    "unlockSucces": {
+        "title": "Cum te ajută Claim IT",
+        "headers": {
+            "header1": "Managementul eficient al companiei tale",
+            "header2": "Optimizarea proceselor financiare",
+            "header3": "Control complet al contractelor",
+            "header4": "Control sporit pentru administratori",
+            "header5": "Avantaje pentru întreaga companie"
+        },
+        "texts": {
+            "text1": "Claim IT facilitează gestionarea angajaților, contractorilor, cererilor de concediu și foilor de pontaj, precum și a proiectelor și clienților. Cu Claim IT, ai control complet asupra managementului clienților, creării proiectelor pentru fiecare client și alocării membrilor echipei pe fiecare proiect.",
+            "text2": "Optimizează procesele financiare cu funcționalitățile avansate de gestionare a facturilor oferite de Claim IT. De la vizualizarea și aprobarea rapidă a pontajelor pentru angajați, până la facturarea eficientă a clienților pe baza pontajelor validate, soluția noastră asigură transparență și eficiență în întregul flux financiar. În plus, nu doar administratorii, ci și contractorii pot genera facturi direct din aplicație pe baza pontajelor aprobate. Aplicația este, de asemenea, complet integrată cu ANAF.",
+            "text3": "Funcționalitățile oferite de Claim IT includ managementul salariilor angajaților, ratelor interne pentru contractori pentru fiecare proiect în parte, personalizarea tarifelor pentru clienți, supravegherea atentă a contractelor și raportare detaliată.",
+            "text4": "Claim IT vine în sprijinul administratorilor prin funcționalități de monitorizare și gestionare a pontajelor și concediilor. Această vizibilitate sporită asigură o gestionare eficientă și rapidă a resurselor umane și a proceselor administrative.",
+            "text5": "Claim IT aduce eficiență, transparență și productivitate în întreaga companie. Beneficiază de un management centralizat și simplificat, economii de costuri, transparență sporită și creștere scalabilă."
+        }
+    },
+    "potentialOfClaim":{
+        "headers": {
+            "header1": "Utilizatori multiplii",
+            "header2": "Roluri multiple",
+            "header3": "Siguranța datelor",
+            "header4": "Integrare cu ANAF"
+        },
+        "texts": {
+            "text1": "Claim IT permite înregistrarea unui număr nelimitat de utilizatori, asigurând securitatea fiecăruia prin tehnologia de sandboxing, care izolează și protejează datele. Aplicația este disponibilă pe platforme web, iOS și Android, oferind astfel acces ușor și securizat pentru utilizatori, indiferent de dispozitivul folosit.",
+            "text2": "Aplicația suportă 3 tipuri de utilizatori, administratori, manageri și angajați, fiecare din aceștia putând fi salariați sau contractori. Fiecare rol beneficiază de funcționalități personalizate care se potrivesc responsabilităților sale specifice.",
+            "text3": "Aplicația protejează datele utilizatorilor prin măsuri avansate de securitate precum autentificare multi-factor (MFA), control de acces bazat pe roluri (RBAC) și sandboxing pentru conținut. Integrarea nativă în cloud și criptarea robustă asigură protecția datelor. În plus, au loc în mod regulat audituri de securitate, backup-uri și actualizări constante.",
+            "text4": "Soluția este complet integrată cu ANAF, oferind utilizatorilor posibilitatea de a gestiona e-Factura automat. Aceasta permite descărcarea și trimiterea facturilor direct din SPV, fără a părăsi aplicația. De asemenea, utilizatorii pot verifica statusul facturilor în timp real, asigurându-se că acestea sunt procesate corect și la timp."
+        },
+        "title": "Soluția completă pentru afacerea ta"
+    },
+    "trusted": {
+        "texts": {
+            "text1": "De încredere pentru liderii din industrie",
+            "text2": "Companii din întreaga lume"
+        }
+    },
+    "discoverClaim":{
+        "title": "Descoperă funcționalitățile oferite de Claim IT",
+        "headers":{
+            "header1": "Pontaj",
+            "header2": "Facturare",
+            "header3": "Managementul proiectelor și al echipei",
+            "header4": "Managementul zilelor de concediu",
+            "header5": "Rapoarte complexe"
+        },
+        "texts": {
+            "text1": "Claim IT permite înregistrarea timpului lucrat de angajați și contractori conform prevederilor legale, oferind o soluție eficientă pentru gestionarea resurselor umane.",
+            "text2": "În plus, aplicația oferă rapoarte detaliate despre timpul lucrat, care pot fi utilizate pentru calcularea salariilor sau pentru facturarea clienților, asigurând transparență totală.",
+            "text3": "Contractorii și administratorii pot genera, trimite și gestiona cu ușurință facturile, facilitând urmărirea plăților. Facturile pot fi create în doar câteva clickuri, integrând automat datele din modulele de pontaj. ",
+            "text4": "Aplicația este complet integrată cu ANAF și le permite utilizatorilor să genereze e-Factura automat, să trimită facturile în SPV, să verifice în timp real statusul acestora, și să descarce toate facturile primite și trimise.",
+            "text5": "Aplicația facilitează monitorizarea și gestionarea proiectelor, soluția oferă un control complet asupra tuturor contractelor și proiectelor, indiferent dacă acestea sunt în curs de desfășurare sau finalizate și furnizează informații detaliate despre utilizatori.",
+            "text6": "În plus, se pot genera rapoarte care permit urmărirea performanței în timp real și evaluarea resurselor utilizate. Spre exemplu, aplicația poate determina cât timp un angajat poate rămâne nealocat fără a afecta semnificativ performanța companiei.",
+            "text7": "Claim App le oferă angajaților o vizibilitate clară asupra zilelor de concediu disponibile, permițându-le să urmărească atât numărul de zile deja utilizate, cât și pe cele rămase până la sfârșitul anului. În plus, în pagina de start a aplicației, utilizatorii pot vizualiza, în timp real, colegii care se află în concediu și perioada în care aceștia sunt absenți.",
+            "text8": "Aplicația folosește inteligența artificială pentru a genera rapoarte complexe care determină profitabilitatea proiectelor, echipelor și a companiei. Soluția procesează datele colectate din toate modulele aplicației pentru a oferi o analiză cuprinzătoare a indicatorilor de performanță (KPI). În plus, aplicația furnizează predicții legate de fluxul de numerar, ajutându-te să iei decizii informate pentru un viitor financiar stabil.",
+            "listItems": {
+                "item1": "Pontaj din aplicația web sau mobile",
+                "item2": "Înregistrarea timpului lucrat pe proiect",
+                "item3": "Facturare automată pe baza orelor înregistrate",
+                "item4": "Rapoarte de activitate generate instant",
+                "item5": "Crearea facturilor de la zero, integrând automat datele din celelalte module ale aplicației",
+                "item6": "Utilizarea unităților de măsură oficiale",
+                "item7": "Conectare cu semnătura electronică",
+                "item8": "Verificarea în timp real a statusului facturilor trimise",
+                "item9": "Descărcare multiplă a facturilor",
+                "item10": "Gestionarea salariilor",
+                "item11": "Personalizarea ofertelor pentru clienți",
+                "item12": "Raportare detaliată",
+                "item13": "Completarea automată a contractelor",
+                "item14": "Rapoarte complexe necesare pentru a lua decizii strategice",
+                "item15": "Analiză financiară",
+                "item16": "Predicții în legătură cu fluxul de numerar"
+            }
+        }
+    },
+    "faqs": {
+        "headers": {
+            "header1": "Cum poate Claim IT să eficientizeze managementul proiectelor?",
+            "header2": "Ce oportunități de economisire a costurilor oferă Claim IT?",
+            "header3": "Cum asigură Claim IT securitatea datelor?",
+            "header4": "Poate Claim IT să se adapteze la dimensiuni diferite ale companiilor?",
+            "header5": "Ce opțiuni de suport sunt disponibile pentru utilizatori?",
+            "header6": "Cum funcționează integrarea cu ANAF?"
+        },
+        "texts": {
+            "text1": "Cu Claim IT, companiile de servicii pot urmări eficient costurile proiectelor și pot genera rapoarte detaliate privind utilizarea și profitabilitatea. În plus, membrii echipei pot crea cu ușurință foi de pontaj care pot fi ulterior aprobate de către utilizatorii de tip admin.",
+            "text2": "Multe organizații se confruntă cu un labirint de software pentru facturare, aplicații de monitorizare a timpului și instrumente de raportare separate. Claim IT simplifică lucrurile prin automatizarea diverselor procese, eliminarea abonamentelor redundante și optimizarea fluxului de lucru, generând economii semnificative. În plus, îți oferă o soluție completă și puternică pentru afacerea ta de servicii.",
+            "text3": "Claim IT asigură protecția datelor prin acces multi-stratificat, criptare și cloud securizat. Prioritizăm conformitatea cu reglementările GDPR și HIPAA și facem actualizări regulate pentru a te apăra de potențiale scurgeri de date.",
+            "text4": "Claim IT crește deodată cu tine. De la startup-uri mici (<10 angajați) la corporații, Claim IT se ajustează perfect nevoilor tale. Sistemul ERP de ultimă generație simplifică sarcini precum facturarea, raportarea și monitorizarea timpului, indiferent de dimensiunea echipei tale. Acest lucru se traduce în eficiență sporită și economii de costuri pentru afaceri de toate dimensiunile.",
+            "text5": "Înțelegem cât de important este să ai suport continuu, așa că oferim asistență 24/7 pentru toți utilizatorii noștri, actuali și viitori.",
+            "text6": "Integrarea cu ANAF oferită de Claim IT simplifică gestionarea documentelor fiscale și a conformității cu reglementările actuale. Aplicația permite utilizatorilor să gestioneze automat e-Factura, facilitând crearea, trimiterea și primirea facturilor direct prin platformă. Prin integrarea cu SPV (Spațiul Privat Virtual), Claim IT permite descărcarea și trimiterea facturilor fără efort, direct din aplicație, și oferă acces instantaneu la statutul acestora. De asemenea, aplicația oferă și funcționalitatea de descărcare multiplă a facturilor, economisind ore întregi de muncă manuală."
+        },
+        "title": "Întrebări"
+    },
+    "native": {
+        "header": "Aplicația mobilă Claim IT",
+        "text": "Preia controlul asupra programului tău oriunde te-ai afla. Chiar dacă nu ești la birou, aplicația noastră mobilă îți permite să soliciți concediu și să înregistrezi orele lucrate cu ușurință."
+    },
+    "reviews": {
+        "review1": "De când folosesc Claim IT, gestionarea activităților mele în cloud este mult mai ușoară. Este foarte simplu de folosit, și apreciez în special funcționalitățile ce utilizează AI. De asemenea, suportul 24/7 este fantastic!",
+        "review2": "Claim IT ne ușurează munca enorm. Modulul de facturare integrat cu ANAF m-a ajutat pe mine și pe echipa mea să economisim ore întregi de muncă manuală. De asemenea, rapoartele de profitabilitate generate cu AI au fost revoluționare. Putem în sfârșit să vedem care este motorul afacerii noastre!",
+        "review3": "Claim IT aduce schimbări radicale în performanța operațională. Rapoartele automate oferă informații în timp real, iar sugestiile oferite cu ajutorul AI mă ajută să îmi optimizez procesele. Echipa mea este mai eficientă și pot să iau decizii bazate pe date concrete. Claim IT ne asigură un avantaj competitiv."
+    },
+    "pricing": {
+        "month": "lună",
+        "getStarted": "Începe acum",
+        "contactUs": "Ofertă personalizată",
+        "contact": "Contactează-ne",
+        "texts": {
+            "text1": "Managementul clienților",
+            "text2": "Managementul proiectelor",
+            "text3": "Facturare",
+            "text4": "Managementul echipei",
+            "text5": "Managementul orelor lucrate",
+            "text6": "Toate funcționalitățile BUSINESS",
+            "text7": "Suport pentru echipe multiple",
+            "text8": "Toate funcționalitățile BUSINESS PLUS",
+            "text9": "Dezvoltare internă",
+            "text10": "Alege planul care ți se potrivește"
+        },
+        "title": "Planuri Tarifare"
+    },
+    "streamline":{
+        "headers": {
+            "header1":"Solicită un demo gratuit"
+        },
+        "texts": {
+            "text1": "Află cum te poate ajuta aplicația Claim IT în gestionarea afacerii tale.",
+            "text2": "Solicită un demo"
+        }
+    },
+    "nav": {
+        "benefits": "Beneficii",
+        "demo": "Demo",
+        "keyFeature": "Funcționalități",
+        "privacyAndConditions": "Confidențialitate",
+        "termsAndConditions": "Termeni și Condiții",
+        "docs": "Docs",
+        "contact": "Contact"
+    },
+    "privacyPage": {
+            "title": "Politica de Confidențialitate - Claim IT",
+            "headers": {
+                "header1": "Politica de Confidențialitate",
+                "header2": "Colectarea Informațiilor",
+                "header3": "Utilizarea Datelor",
+                "header4": "Partajarea Datelor",
+                "header5": "Securitatea Datelor",
+                "header6": "Păstrarea Datelor",
+                "header7": "Drepturile Utilizatorilor",
+                "header8": "Actualizări ale Politicii"
+            },
+            "texts": {
+                "text1": "La Claim, ne angajăm să protejăm confidențialitatea și securitatea informațiilor personale ale utilizatorilor noștri. Politica noastră de confidențialitate descrie modul în care colectăm, utilizăm, divulgăm și protejăm datele dumneavoastră atunci când utilizați aplicația noastră.",
+                "text2": "Colectăm informații personale precum numele, adresa de e-mail și detalii de contact atunci când vă înregistrați un cont la Claim.",
+                "text3": "Informațiile dumneavoastră sunt utilizate pentru a oferi și îmbunătăți serviciile noastre, a personaliza experiența dvs., a comunica cu dvs. și a procesa tranzacțiile.",
+                "text4": "Putem partaja informațiile dumneavoastră cu furnizori terți de servicii de încredere pentru a ne ajuta să furnizăm serviciile noastre în mod eficient.",
+                "text5": "Implementăm măsuri de securitate pentru a proteja informațiile dumneavoastră personale împotriva accesului neautorizat, modificării, divulgării sau distrugerii.",
+                "text6": "Păstrăm informațiile dumneavoastră personale doar atât timp cât este necesar pentru a îndeplini scopurile menționate în această politică, cu excepția cazului în care o perioadă mai lungă de păstrare este cerută de lege.",
+                "text7": "Aveți dreptul să accesați, actualizați sau ștergeți informațiile dumneavoastră personale. De asemenea, puteți alege să renunțați la anumite activități de procesare a datelor.",
+                "text8": "Putem actualiza din când în când politica noastră de confidențialitate. Orice modificări vor fi reflectate pe această pagină și vă încurajăm să revizuiți periodic această politică."
+            }
+        
+    },
+    "terms": {
+    "title": "Termeni și Condiții - Claim IT",
+    "headers": {
+        "header0": "Termeni și Condiții",
+        "header1": "Termeni și Condiții de Utilizare",
+        "header2": "Crearea și Utilizarea Contului",
+        "header3": "Managementul Companiei",
+        "header4": "Managementul Utilizatorilor",
+        "header5": "Managementul Proiectelor",
+        "header6": "Pontaj și Cereri de Concediu",
+        "header7": "Rapoarte",
+        "header8": "Facturare și Managementul Cheltuielilor",
+        "header9": "Integrare",
+        "header10": "Faza Beta și Plăți",
+        "header11": "Declinarea Răspunderii",
+        "header12": "Limitarea Răspunderii",
+        "header13": "Legea Guvernantă",
+        "header14": "Modificări ale Termenilor",
+        "header15": "Acceptarea Termenilor",
+        "header16": "Funcționalitate",
+        "header17": "Soluție Multi-Tenant",
+        "header18": "Măsuri de Securitate",
+        "header19": "Modificări"
+    },
+    "texts": {
+        "text1": "Acești Termeni și Condiții (\"Termeni\") guvernează utilizarea Claim IT, o aplicație mobilă și web (\"Aplicația\"), furnizată de Claim IT Inc. (\"Claim IT,\" \"noi,\" \"nostru\"). Prin accesarea sau utilizarea Aplicației, sunteți de acord să respectați acești Termeni. Vă rugăm să citiți acești Termeni cu atenție înainte de a utiliza Aplicația.",
+        "text2": "Bine ați venit la Claim IT! Acești Termeni și Condiții de Utilizare (\"Termeni\") se aplică utilizării aplicației mobile și platformei web Claim IT (denumite colectiv \"Aplicația\") furnizate de Claim IT, Inc. Prin accesarea sau utilizarea Aplicației, sunteți de acord să respectați acești Termeni. Dacă nu sunteți de acord cu acești Termeni, vă rugăm să nu utilizați Aplicația.",
+        "text3": "1. Trebuie să creați un cont pentru a accesa și utiliza Aplicația. Sunteți de acord să furnizați informații exacte, actuale și complete în timpul procesului de înregistrare și să actualizați aceste informații pentru a le menține corecte, actuale și complete.",
+        "text31": "2. Sunteți responsabil pentru păstrarea confidențialității acreditărilor contului dvs. și pentru toate activitățile care au loc sub contul dvs. Sunteți de acord să notificați imediat Claim IT cu privire la orice utilizare neautorizată a contului dvs. sau orice altă breșă de securitate.",
+        "text32": "3. Claim IT își rezervă dreptul de a suspenda sau închide contul dvs. în orice moment, cu sau fără motiv, și fără notificare prealabilă.",
+        "text4": "1. Aplicația oferă instrumente pentru gestionarea companiilor, inclusiv soluții bazate pe chiriași, permițând fiecărei companii să aibă propria sa bază de date care este criptată la repaus.",
+        "text5": "1. Aplicația permite gestionarea utilizatorilor din cadrul companiei dvs., inclusiv angajați și contractori.",
+        "text6": "1. Puteți gestiona proiecte în cadrul Aplicației, inclusiv urmărirea progresului proiectului, alocarea sarcinilor și generarea de rapoarte.",
+        "text7": "1. Aplicația oferă funcționalități pentru gestionarea pontajelor și cererilor de concediu, permițând utilizatorilor să depună și să urmărească aceste activități.",
+        "text8": "1. Aplicația generează diverse rapoarte, inclusiv rapoarte de utilizator, proiect, client, profitabilitatea companiei și rapoarte generale de stare. De asemenea, oferă rapoarte bazate pe AI, cum ar fi utilizarea, fluxul de numerar, profitabilitatea, previziunile de venituri și previziunile de profitabilitate.",
+        "text9": "1. Aplicația permite facturarea clienților și contractorilor, precum și depunerea, aprobarea și gestionarea cererilor și rapoartelor de cheltuieli.",
+        "text10": "1. Aplicația se integrează cu autentificarea prin Microsoft și Google și oferă verificarea în doi pași implicită pentru toate tipurile de utilizatori.",
+        "text11": "1. Claim IT își rezervă dreptul de a oferi Aplicația gratuit în timpul fazei de testare beta. După faza beta, Claim IT poate permite metode de plată pentru utilizarea continuă a Aplicației. Prin utilizarea Aplicației, recunoașteți și sunteți de acord cu această condiție.",
+        "text12": "1. APLICAȚIA ESTE FURNIZATĂ „CA ATARE” ȘI „ÎN FUNCȚIE DE DISPONIBILITATE”. CLAIM IT NU OFERĂ NICIUN FEL DE REPREZENTĂRI SAU GARANȚII, EXPLICITE SAU IMPLICITE, ÎN LEGĂTURĂ CU FUNCȚIONAREA APLICAȚIEI SAU INFORMAȚIILE, CONȚINUTUL, MATERIALELE SAU PRODUSELE INCLUSE ÎN APLICAȚIE. ÎN MĂSURA PERMISĂ DE LEGEA APLICABILĂ, CLAIM IT ÎȘI DECLINĂ TOATE GARANȚIILE, EXPLICITE SAU IMPLICITE, INCLUSIV DAR FĂRĂ A SE LIMITA LA GARANȚIILE IMPLICITE DE COMERCIABILITATE ȘI ADECVARE PENTRU UN ANUMIT SCOP.",
+        "text13": "1. ÎN NICIUN CAZ CLAIM IT SAU DIRECTORII, OFIȚERII, ANGAJAȚII SAU AGENȚII SĂI NU VOR FI RĂSPUNZĂTORI PENTRU DAUNE INDIRECTE, INCIDENTALE, SPECIALE, CONSECUTIVE SAU PUNITIVE REZULTATE DIN UTILIZAREA APLICAȚIEI, FIE BAZATE PE GARANȚIE, CONTRACT, DELICT (INCLUSIV NEGLIJENȚĂ) SAU ORICE ALTĂ TEORIE LEGALĂ, CHIAR DACĂ CLAIM IT A FOST INFORMAT DESPRE POSIBILITATEA ACESTOR DAUNE.",
+        "text14": "1. Acești Termeni vor fi guvernați și interpretați în conformitate cu legile României, fără a ține cont de principiile sale de conflict de legi.",
+        "text15": "1. Claim IT își rezervă dreptul de a modifica sau înlocui acești Termeni în orice moment. Dacă o revizuire este materială, Claim IT va oferi cel puțin 30 de zile de preaviz înainte de intrarea în vigoare a noilor termeni. Ce constituie o schimbare materială va fi determinat la discreția exclusivă a Claim IT.\n\n2. Dacă aveți întrebări despre acești Termeni, vă rugăm să ne contactați la office@claimit.app.",
+        "text16": "Prin accesarea sau utilizarea Aplicației, sunteți de acord să respectați acești Termeni. Dacă nu sunteți de acord cu toți termenii și condițiile acestui acord, atunci nu puteți accesa Aplicația.",
+        "text17": "Claim IT este un instrument operațional destinat agențiilor digitale, oferind diverse funcționalități, inclusiv dar fără a se limita la managementul companiei (bazat pe chiriași), managementul utilizatorilor, managementul angajaților, managementul contractorilor, managementul proiectelor, cereri de pontaj și concediu, rapoarte, rapoarte bazate pe AI, aprobare de pontaje, facturare a clienților, facturarea contractorilor, cereri de cheltuieli, aprobare de cheltuieli, rapoarte de cheltuieli și integrarea cu eFactura.",
+        "text18": "Claim IT oferă o soluție multi-tenant, asigurând că fiecare companie are propria sa bază de date care este criptată la repaus.",
+        "text19": "Claim IT oferă verificarea în doi pași implicită pentru toate tipurile de utilizatori și se integrează cu autentificarea prin Microsoft și Google pentru securitate sporită.",
+        "text20": "Claim IT își rezervă dreptul de a modifica sau revizui acești Termeni în orice moment. Sunteți de acord să respectați aceste modificări sau revizuiri și, prin urmare, ar trebui să vizitați periodic această pagină pentru a revizui cei mai actuali Termeni."
+    },
+    "final_notice": "Prin utilizarea Aplicației, sunteți de acord să respectați acești Termeni. Nerespectarea acestor Termeni poate duce la încetarea accesului dvs. la Aplicație."
+},
+
+    "contactDetails": {
+        "phone": "Telefon",
+        "office": "Birou"
+    }
+ }

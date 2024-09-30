@@ -1,0 +1,70 @@
+name: Prod Build & Deploy Docker Image
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - id: 'auth'
+        uses: 'google-github-actions/auth@v1'
+        with:
+          credentials_json: '${{ secrets.GCD_SERVICE_ACCOUNT_KEY }}'
+
+      - name: 'Set up Cloud SDK'
+        uses: 'google-github-actions/setup-gcloud@v1'
+
+      - name: 'Use gcloud CLI'
+        run: 'gcloud info'
+
+      - name: Configure Docker Client
+        run: |-
+          gcloud auth configure-docker --quiet #authenticate to gcr
+
+      - name: Build Docker Image
+        uses: gacts/run-and-post-run@v1
+        with:
+          run: |-
+            docker build . --file Dockerfile --platform=linux/amd64 --tag ${{vars.IMAGE_NAME}}-prod:${{github.run_number}}
+          post: |-
+            docker system prune -a -f
+
+      - name: Push Docker Image to Container Registry GCR
+        run: |-
+          docker tag ${{vars.IMAGE_NAME}}-prod:${{github.run_number}} gcr.io/${{vars.PROJECT_ID}}/${{vars.IMAGE_NAME}}-prod:${{github.run_number}}
+          docker push gcr.io/${{vars.PROJECT_ID}}/${{vars.IMAGE_NAME}}-prod:${{github.run_number}}
+
+      - name: Deploy Cloud Run
+        uses: "google-github-actions/deploy-cloudrun@v1"
+        with:
+          service: "${{vars.CLOUD_RUN_SERVICE_NAME}}"
+          region: "europe-west4"
+          image: "gcr.io/${{vars.PROJECT_ID}}/${{vars.IMAGE_NAME}}-prod:${{github.run_number}}"
+
+      - name: Extract branch name
+        if: always()
+        shell: bash
+        run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
+        id: extract_branch 
+
+      - name: Slack Notification
+        if: always()
+        id: slack
+        uses: slackapi/slack-github-action@v1.23.0
+        with:
+          # This data can be any valid JSON from a previous step in the GitHub Action
+          payload: |
+            {
+              "build_status": "${{ job.status }}",
+              "work_done": "CD from - branch ${{ steps.extract_branch.outputs.branch }}",
+              "github_repository": "${{ github.event.repository.name }}",
+              "github_commit_url": "${{ github.event.head_commit.url }}"
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{secrets.SLACK_WEBHOOK_URL}}
+          

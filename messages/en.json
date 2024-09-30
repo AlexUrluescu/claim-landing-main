@@ -1,0 +1,235 @@
+{
+    "HomePage": {
+        "title": "Hello "
+        
+    },
+    "claimIT": {
+        "title": "State-of-the-art ERP System for Business Management",
+        "text": "Whether you're a small startup or a large enterprise, Claim IT scales to meet your evolving needs. Gain insights that drive operational decisions, optimize resource utilization, enhance operational processes, and manage invoices efficiently with the help of our business management solution."
+    },
+    "unlockSucces": {
+        "title": "Unlock Success with Claim. Transform Your Company's Dynamic.",
+        "headers": {
+                "header1": "Streamlined Business Management",
+                "header2": "Optimized Financial Processes",
+                "header3": "Comprehensive Contract Control",
+                "header4": "Company-Wide Advantages with Claim",
+                "header5": "Enhanced Control for Administrators"
+        },
+            "texts": {
+                "text1": "Claim IT has intuitive features that enable you to manage projects, employees, contractors, leave requests, and timesheets effortlessly. From project oversight to efficient collaboration and time management, Claim IT ensures a seamless and organized approach to your diverse responsibilities within the company ecosystem.",
+                "text2": "From quick overview and approval of employee timesheets to efficiently invoicing clients based on validated timesheets, Claim IT ensures transparency and efficiency throughout the entire financial workflow. Additionally, administrators and contractors can generate invoices directly from the app based on approved timesheets. The application is also fully integrated with the Romanian ANAF.",
+                "text3": "Claim's powerful suite covers salary management, rate customization for contractors for each project, price customization for clients, meticulous contract oversight, and detailed reporting.",
+                "text4": "Claim IT brings efficiency, transparency, and productivity to your company. Experience streamlined business management, cost savings, improved transparency, and scalable growth, making Claim IT the catalyst for your success.",
+                "text5": "From quickly viewing and approving employee timesheets to efficiently invoicing clients based on validated timesheets, our solution ensures transparency and efficiency throughout the financial workflow. Additionally, administrators and contractors can generate invoices directly from the app based on approved timesheets."
+        }
+    },
+    "potentialOfClaim":{
+        "headers": {
+            "header1": "Multi-Tenant",
+            "header2": "Multi Roles",
+            "header3": "Security by Design",
+            "header4": "ANAF Integration "
+        },
+        "texts": {
+            "text1": "Seamlessly extend your reach across Android, iOS, and web platforms as Claim IT ensures secure, independent spaces for each tenant through content sandboxing. Empower multiple companies with the flexibility and reliability of Claim IT.",
+            "text2": "Claim embraces a multi-roles approach, acting as an umbrella for practitioners, managers, and administrators. Tailored functionalities ensure each user type efficiently manages their responsibilities under a unified platform, streamlining company operations.",
+            "text3": "Safeguard your operations with Claim IT's fortified measures, including protected accounts with MFA, platform RBAC, content sandboxing, cloud-native integration, robust data encryption, and a regimen of regular security audits, backups, and updates.",
+            "text4": "The solution is fully integrated with the Romanian ANAF, allowing users to manage e-Factura automatically. It enables downloading and sending invoices directly from SPV without leaving the app.Also, users can check the status of invoices in real time, ensuring they are processed correctly and on time."
+        },
+        "title": "Explore the full potential of Claim IT"
+    },
+    "trusted": {
+        "texts": {
+            "text1": "Trusted by industry-leading",
+            "text2": "Companies worldwide"
+        }
+    },
+    "discoverClaim":{
+        "title": "Discover Claim IT's functionalities",
+        "headers":{
+            "header1": "Time Tracking",
+            "header2": "Invoicing",
+            "header3": "Project and Team Management",
+            "header4": "Time Off",
+            "header5": "Advanced Reports"
+        },
+        "texts": {
+            "text1": "Claim IT enables employees and contractors to log their working hours in compliance with legal regulations, providing an efficient solution for human resource management. Administrators can view real-time work data and monitor team productivity.",
+            "text2": "Additionally, the app generates detailed reports on worked hours, which can be used for payroll calculations or client invoicing, ensuring complete transparency.",
+            "text3": "The app facilitates payment tracking by enabling contractors and administrators to easily generate, send, and manage invoices. Invoices are created with a few clicks, automatically pulling data from the timesheet module.",
+            "text4": "The app is fully integrated with the Romanian ANAF, allowing users to automatically generate e-Factura, submit invoices to SPV, check their status in real time, and download all received and sent invoices.",
+            "text5": "The app streamlines project monitoring and management, it provides comprehensive control over all contracts and projects, whether ongoing or completed, and offers detailed information about users.",
+            "text6": "Additionally, the app can generate reports that track real-time performance and resource utilization. For instance, it can determine how long an employee can stay on bench without significantly impacting company performance.",
+            "text7": "Claim IT enables users to monitor their used and remaining vacation days. On the app's homepage, users can also view which colleagues are currently on leave and the length of their absence.",
+            "text8": "The app generates AI-powered reports that calculate the profitability of your teams, projects, and company. Our business management solution uses data collected from all application modules to provide a comprehensive analysis of key performance indicators (KPIs). Additionally, the app offers cash flow forecasts, helping you make informed decisions for a stable financial future.",
+            "listItems": {
+                "item1": "Log worked hours in the web or mobile application",
+                "item2": "Log worked hours per project",
+                "item3": "Automated invoicing based on logged hours",
+                "item4": "Instant activity reports",
+                "item5": "Invoice generation from scratch, integrating data from the other app modules",
+                "item6": "Integration with the digital certificate",
+                "item7": "Check invoice status in real-time",
+                "item8": "Review and download all invoices received and sent in the past 60 days",
+                "item9": "Bulk invoice download",
+                "item10": "Salary management",
+                "item11": "Customization of client offers",
+                "item12": "Detailed reporting",
+                "item13": "Automated contract filling",
+                "item14": "Advanced reports for operational decisions",
+                "item15": "Financial analysis",
+                "item16": "Comprehensive cashflow predictions"
+            }
+        }
+    },
+    "faqs": {
+        "headers": {
+            "header1": "How Can Claim Streamline Project Management?",
+            "header2": "What Cost-Saving Opportunities Does Claim Offer?",
+            "header3": "How Does Claim Ensure Data Security?",
+            "header4": "Can Claim Adapt to Different Company Sizes?",
+            "header5": "What Support Options are Available for Users?",
+            "header6": "How Does the Integration with the Romanian ANAF Work?"
+        },
+        "texts": {
+            "text1": "With Claim IT, services companies can efficiently track project costs and generate detailed usage and profitability reports. Additionally, team members can easily create timesheets to be approved by administrators.",
+            "text2": "Many organizations struggle with a maze of invoicing software, time-tracking apps, and separate reporting tools. Our business management solution cuts through the clutter! It automates these tasks, eliminates redundant subscriptions, streamlines your workflow for major cost savings, and empowers your service business with a powerful, all-in-one solution.",
+            "text3": "Claim IT safeguards your service data! Multi-layered access, encryption & secure cloud ensure info remains protected. We prioritize compliance (GDPR, HIPAA) & continuous updates to protect your business against threats.",
+            "text4": "Claim IT grows with you! From small startups (<10) to established enterprises, Claim IT adapts to your needs. Our all-in-one business management platform streamlines tasks like invoicing, reporting, and time tracking, regardless of team size. This translates to increased efficiency and cost savings for businesses of all scales.",
+            "text5": "We understand the importance of having support whenever you need it, that's why we offer 24/7 assistance to all our users, existing and future. Focusing on growth, Claim IT provides peace of mind with round-the-clock support.",
+            "text6": "The ANAF integration provided by Claim IT streamlines the management of fiscal documents and ensures compliance with current regulations. The platform simplifies the creation, sending, and receiving of invoices directly through the application. By connecting to SPV (Virtual Private Space), Claim IT enables effortless downloading and sending of invoices from within the app, while also providing instant access to their status. Additionally, the app offers a bulk download feature for invoices, saving users hours of manual work."
+        },
+        "title": "FAQs"
+    },
+    "native": {
+        "header": "Empowering You to Manage Your Time, Anywhere, Anytime!",
+        "text": "With Claim Mobile, take control of your schedule wherever you go. Whether you're on the move or out of the office, our mobile app enables you to effortlessly request leave and claim hours with just a few taps on your smartphone screen. Seamlessly sync with your desktop experience and stay productive on the fly."
+    },
+    "reviews": {
+        "review1": "Since switching to Claim IT, managing my cloud practice has been a dream! It’s so easy to use. What I like most are the forecasting and the other AI-based functionalities. Also, the 24/7 support is fantastic!",
+        "review2": "We simply love Claim IT! Its automated invoicing functionality saved my team hours. Also, AI-powered profitability reports deliver game-changing insights. We can finally see what’s driving our service business!",
+        "review3": "Claim IT is a game-changer for operational health! Instant reports give me real-time insights, and AI suggestions help us optimize workflows. My team is more efficient, and I can take data-driven decisions. Claim IT keeps us ahead of the curve."
+    },
+    "pricing": {
+        "month": "mo",
+        "getStarted": "Get started",
+        "contactUs": "Contact Sales",
+        "contact": "Contact us",
+        "texts": {
+            "text1": "Client Management",
+            "text2": "Project Management",
+            "text3": "Invoicing",
+            "text4": "Practitioners Management",
+            "text5": "Time Management",
+            "text6": "Full BUSINESS functionalities",
+            "text7": "Suport for multiple teams",
+            "text8": "Full BUSINESS PLUS functionalities",
+            "text9": "Internal deployment",
+            "text10": "Choose the plan that suits your needs"
+        },
+        "title": "Pricing Plans"
+    },
+    "streamline":{
+        "headers": {
+            "header1":"Streamline and organize your company with Claim"
+        },
+        "texts": {
+            "text1": "Experience the efficiency of the Claim app in managing your business.",
+            "text2": "Book a demo"
+        }
+    },
+
+    "nav": {
+        "benefits": "Benefits",
+        "demo": "Demo",
+        "keyFeature": "Key Features",
+        "privacyAndConditions": "Privacy",
+        "termsAndConditions": "Terms and Conditions",
+        "docs": "Docs",
+        "contact": "Contact"
+    },
+
+    "privacyPage": {
+        "title": "Privacy Policy - Claim IT",
+        "headers": {
+            "header1": "Privacy Policy",
+            "header2": "Information Collection",
+            "header3": "Data Usage",
+            "header4": "Data Sharing",
+            "header5": "Data Security",
+            "header6": "Data Retention",
+            "header7": "User Rights",
+            "header8": "Policy Updates"
+        },
+        "texts": {
+            "text1": "At Claim, we are committed to protecting the privacy and security of our users' personal information. Our Privacy Policy outlines how we collect, use, disclose, and protect your data when you use our app.",
+            "text2": "We collect personal information such as name, email address, and contact details when you register an account with Claim.",
+            "text3": "Your information is used to provide and improve our services, personalize your experience, communicate with you, and process transactions.",
+            "text4": "We may share your information with trusted third-party service providers to assist us in delivering our services effectively.",
+            "text5": "We implement security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction.",
+            "text6": " We retain your personal information only for as long as necessary to fulfill the purposes outlined in this policy unless a longer retention period is required by law.",
+            "text7": "You have the right to access, update, or delete your personal information. You can also choose to opt-out of certain data processing activities.",
+            "text8": "We may update our Privacy Policy from time to time. Any changes will be reflected on this page, and we encourage you to review this policy periodically."
+        }
+
+    },
+
+    "terms": {
+        
+            "title": "Terms and Conditions - Claim IT",
+            "headers": {
+                "header0": "Terms and Conditions",
+                "header1": "Terms and Conditions of Use",
+                "header2": "Account Creation and Usage",
+                "header3": "Company Management",
+                "header4": "User Management",
+                "header5": "Projects Management",
+                "header6": "Timesheet & Leave Requests",
+                "header7": "Reports",
+                "header8": "Invoicing and Expense Management",
+                "header9": "Integration",
+                "header10": "Beta Phase and Payment",
+                "header11": "Disclaimer",
+                "header12": "Limitation of Liability",
+                "header13": "Governing Law",
+                "header14": "Changes to Terms",
+                "header15": "Acceptance of Terms",
+                "header16": "Functionality",
+                "header17": "Multi-Tenant Solution",
+                "header18": "Security Measures",
+                "header19": "Modifications"
+            },
+            "texts": {
+                "text1": "These Terms and Conditions (\"Terms\") govern your use of Claim IT, a mobile and web application (the \"App\"), provided by Claim IT Inc. (\"Claim IT,\" \"we,\" \"us,\" or \"our\"). By accessing or using the App, you agree to be bound by these Terms. Please read these Terms carefully before using the App.",
+                "text2": "Welcome to Claim IT! These Terms and Conditions of Use (\"Terms\") apply to your use of the Claim IT mobile application and web platform (collectively referred to as the \"App\") provided by Claim IT, Inc. By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.",
+                "text3": "1. You must create an account to access and use the App. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete.",
+                "text31": "2. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to immediately notify Claim IT of any unauthorized use of your account or any other breach of security.",
+                "text32": "3. Claim IT reserves the right to suspend or terminate your account at any time, with or without cause, and without notice to you.",
+                "text4": "1. The App provides tools for company management, including tenant-based solutions, allowing each company to have its own database that is encrypted at rest.",
+                "text5": "1. The App enables the management of users within your company, including employees and contractors.",
+                "text6": "1. You can manage projects within the App, including tracking project progress, assigning tasks, and generating reports.",
+                "text7": "1. The App facilitates the submission and management of timesheets and leave requests for employees and contractors.",
+                "text8": "1. The App generates various reports, including user, project, client, company profitability, and general status reports. It also offers AI-based reports such as utilization, cash flow, profitability, revenue forecasts, and profitability forecasts.",
+                "text9": "1. The App allows for client and contractor invoicing, as well as the submission, approval, and management of expense requests and reports.",
+                "text10": "1. The App integrates with Microsoft and Google sign-in for user authentication and offers default two-step verification for all user types.",
+                "text11": "1. Claim IT reserves the right to offer the App for free during beta phase testing. After the beta phase, Claim IT may enable payment methods for continued use of the App. By using the App, you acknowledge and agree to this condition.",
+                "text12": "1. THE APP IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. CLAIM IT MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE APP OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED IN THE APP. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, CLAIM IT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.",
+                "text13": "1. IN NO EVENT SHALL CLAIM IT OR ITS DIRECTORS, OFFICERS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APP, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF CLAIM IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+                "text14": "1. These Terms shall be governed by and construed in accordance with the laws of Romania without regard to its conflict of law principles.",
+                "text15": "1. Claim IT reserves the right to modify or replace these Terms at any time. If a revision is material, Claim IT will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Claim IT's sole discretion.",
+                "text151":"2. If you have any questions about these Terms, please contact us at office@claimit.app.",
+                "text16": "By accessing or using the App, you agree to be bound by these Terms. If you do not agree to all the terms and conditions of this agreement, then you may not access the App.",
+                "text17": "Claim IT is an operational tool designed for Digital Agencies, providing various functionalities including but not limited to Company Management (tenant based), Users Management, Employee Management, Contractor Management, Projects Management, Timesheet & Leave Requests, Reports, AI-based Reports, Timesheets Approval, Clients Invoicing, Contractor Invoicing, Expense Requests, Expense Approval, Expense Reports, and integration with eFactura.",
+                "text18": "Claim IT provides a multi-tenant solution, ensuring that each company has its own database that is encrypted at rest.",
+                "text19": "Claim IT offers two-step verification by default for all user types and integrates with Microsoft and Google sign-in for enhanced security.",
+                "text20": "Claim IT reserves the right to modify or revise these Terms at any time. You agree to be bound by such modifications or revisions and should therefore visit this page periodically to review the most current Terms."
+            },
+            "final_notice": "By using the App, you agree to abide by these Terms. Failure to comply with these Terms may result in the termination of your access to the App." 
+    },
+
+    "contactDetails": {
+        "phone": "Phone",
+        "office": "Office"
+    }
+ }

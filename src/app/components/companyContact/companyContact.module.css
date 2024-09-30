@@ -1,0 +1,201 @@
+
+.privacy-policy-contact1 {
+    background-color: var(--dl-color-primary-light-blue);
+    /* background-color: red; */
+  }
+
+  .privacy-policy-contact2 {
+    gap: var(--dl-space-space-fourunits);
+    width: 100%;
+    height: auto;
+    display: flex;
+    overflow: hidden;
+    align-items: stretch;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .privacy-policy-content2 {
+    gap: 24px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+    text-decoration: none;
+  }
+
+  .privacy-policy-link26 {
+    display: contents;
+  }
+
+  .privacy-policy-iconenvelope {
+    width: 48px;
+    height: 48px;
+  }
+
+  .privacy-policy-contact-info1 {
+    gap: 24px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+
+  .privacy-policy-content3 {
+    gap: 16px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .privacy-policy-text33 {
+    color: rgba(0, 8, 66, 1);
+    height: auto;
+    font-size: 32px;
+    align-self: stretch;
+    font-style: Bold;
+    text-align: center;
+    font-weight: 700;
+    line-height: 129.99999523162842%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .privacy-policy-text34 {
+    color: rgba(0, 8, 66, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400px;
+    line-height: 150%;
+    font-stretch: normal;
+    letter-spacing: 0em;
+  }
+
+  .privacy-policy-link27 {
+    display: contents;
+  }
+
+  .privacy-policy-content4 {
+    gap: 24px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+    text-decoration: none;
+  }
+
+  .privacy-policy-iconphone {
+    width: 48px;
+    height: 48px;
+  }
+  .privacy-policy-contact-info2 {
+    gap: 24px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .privacy-policy-content5 {
+    gap: 16px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .privacy-policy-text35 {
+    color: rgba(0, 8, 66, 1);
+    height: auto;
+    font-size: 32px;
+    align-self: stretch;
+    font-style: Bold;
+    text-align: center;
+    font-weight: 700;
+    line-height: 129.99999523162842%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .privacy-policy-text36 {
+    color: rgba(0, 8, 66, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400px;
+    line-height: 150%;
+    font-stretch: normal;
+    letter-spacing: 0em;
+  }
+
+  .privacy-policy-content6 {
+    gap: 24px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .privacy-policy-iconmap {
+    width: 48px;
+    height: 48px;
+  }
+
+
+  .privacy-policy-contact-info3 {
+    gap: 24px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .privacy-policy-content7 {
+    gap: 16px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .privacy-policy-text37 {
+    color: rgba(0, 8, 66, 1);
+    height: auto;
+    font-size: 32px;
+    align-self: stretch;
+    font-style: Bold;
+    text-align: center;
+    font-weight: 700;
+    line-height: 129.99999523162842%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  .privacy-policy-text38 {
+    color: rgba(0, 8, 66, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400px;
+    line-height: 150%;
+    font-stretch: normal;
+    letter-spacing: 0em;
+  }
+  .privacy-policy-container3 {
+    display: contents;
+  }
+
+
+  @media (max-width: 991px) {
+
+    .privacy-policy-contact2 {
+      flex-wrap: wrap;
+    }
+  }
+
+  

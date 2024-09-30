@@ -1,0 +1,43 @@
+.tab-selector1-text5 {
+    color: rgba(0, 7, 65, 1);
+    height: auto;
+    font-size: 32px;
+    align-self: stretch;
+    font-style: Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: 129.99999523162842%;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 5px;
+    text-align: center;
+  }
+
+  .tab-selector1-text6 {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400px;
+    font-stretch: normal;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000842b1;
+    line-height: 1.5
+  }
+
+  .content-container{
+    width: 50%;
+  }
+
+  .main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: '100%';
+    gap: 10px;
+  }
+
+  .image-container{
+    background-color: white; 
+    padding: 10px; 
+    border-radius: 18px;
+  }
